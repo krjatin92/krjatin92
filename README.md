@@ -7,7 +7,10 @@ About Me
 💼 Aspiring Data Analyst
 
 Tools and Languages
-Excel
-PowerBI
-MySQL
-Python
+
+-Excel
+-PowerBI
+-MySQL
+-Python
+-Machine Learning
+-Statistics
